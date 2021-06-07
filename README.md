@@ -5,11 +5,11 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Ken Ryugujiot](https://t.me/Kurisu_Makise_robot).
+Can be found on telegram as [Ken Ryugujiot](http://t.me/KenRyugujiRobot).
 
 The Support group can be reached out to at [Kurisu Support](https://t.me/Kurisu_Makise_support), where you can ask for help about [kurisu_makise_robot](https://t.me/Kurisu_Makise_robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [steins Updates](https://t.me/kurisuupdates) 
+News channel as at [Tokyo Ravengers Updates](https://t.me/kurisuupdates) 
 
 ## How to setup/deploy.
 
